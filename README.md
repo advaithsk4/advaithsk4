@@ -85,18 +85,6 @@ A developer-focused project emphasizing practical software development, interfac
 
 ---
 
-## 📈 GitHub Overview
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=advaithsk4&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=advaithsk4&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 I'm always happy to learn from others, exchange ideas, and collaborate on interesting projects.
