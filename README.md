@@ -1,7 +1,4 @@
-<!--
-  GitHub Profile README for Advaith S Krishna
-  Replace YOUR_GITHUB_USERNAME and YOUR_LINKEDIN_URL with your actual profile links.
--->
+<!-- GitHub Profile README for Advaith S Krishna -->
 
 <div align="center">
 
@@ -11,9 +8,8 @@
 
 *Curious mind. Creative problem solver. Passionate builder.* 🚀
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:advaithsk4@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/advaithsk4)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/advaith-s-krishna/)[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:advaithsk4@gmail.com)
 
 </div>
 
@@ -93,9 +89,9 @@ A developer-focused project emphasizing practical software development, interfac
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=advaithsk4&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=advaithsk4&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -106,8 +102,8 @@ A developer-focused project emphasizing practical software development, interfac
 I'm always happy to learn from others, exchange ideas, and collaborate on interesting projects.
 
 - 📧 Email: **advaithsk4@gmail.com**
-- 💼 LinkedIn: [Connect with me](YOUR_LINKEDIN_URL)
-- 🐙 GitHub: [Explore my repositories](https://github.com/YOUR_GITHUB_USERNAME)
+- - 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/advaith-s-krishna/)
+- 🐙 GitHub: [Explore my repositories](https://github.com/advaithsk4)
 
 ---
 
